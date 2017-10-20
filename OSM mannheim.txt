@@ -1,0 +1,3 @@
+Mannheim
+OSM Link: 		http://www.openstreetmap.org/node/240060919#map=13/49.4849/8.5182
+Full mapzen XML file: 	https://s3.amazonaws.com/mapzen.odes/ex_4ErwPPAgKTBnr8bdFpM2rmcSa2YPB.osm.bz2

@@ -1,0 +1,18 @@
+A variety of ressources was used for this project.
+
+Udacity forum entries
+- https://discussions.udacity.com/t/action-plan-for-p3/231324
+- https://discussions.udacity.com/t/p3-openstreetmap-overview/172045/2
+- https://discussions.udacity.com/t/creating-db-file-from-csv-files-with-non-ascii-unicode-characters/174958/7
+- https://discussions.udacity.com/t/problem-processing-french-accents-o-e-on-jupyter-notebook/228800/2
+
+Stack overflow
+- https://stackoverflow.com/questions/252703/append-vs-extend
+- https://stackoverflow.com/questions/4289331/python-extract-numbers-from-a-string
+- https://stackoverflow.com/questions/26618182/how-to-fix-indexerror-string-index-out-of-range
+- https://stackoverflow.com/questions/31137552/unicodeencodeerror-ascii-codec-cant-encode-character-at-special-name
+- https://stackoverflow.com/questions/19454412/regex-to-find-last-word-in-a-string-python
+
+Regular expressions
+- https://regex101.com/r/zK3iQ2/1
+
